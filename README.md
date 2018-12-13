@@ -296,6 +296,8 @@ $ touch trick.md
 ### a. `awk`
 awk is the most useful command for handling text files. It operates on an entire file line by line. By default it uses whitespace to separate the fields. The most common syntax for awk command is
 
+[学习连接]{https://www.jianshu.com/p/632aa090c365}
+
 ```bash
 awk '/search_pattern/ { action_to_take_if_pattern_matches; }' file_to_parse
 ```
